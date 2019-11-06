@@ -4,7 +4,7 @@
 * NeoVim/Vim8
 * Git
 ### Install ###
-1. install vimplug
+#### 1. install vimplug
 ```bash
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
@@ -15,7 +15,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-2. Clone the Repo
+#### 2. Clone the Repo
 
 nvim
 ```bash
@@ -37,4 +37,4 @@ git clone git@github.com:ajnieset/nvim.git
 ```
 
 
-3. Open up Neovim/Vim and run `:PlugInstall`
+#### 3. Open up Neovim/Vim and run `:PlugInstall`
