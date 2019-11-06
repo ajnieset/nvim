@@ -37,4 +37,5 @@ git clone git@github.com:ajnieset/nvim.git
 ```
 
 
-#### 3. Open up Neovim/Vim and run ####`:PlugInstall`
+#### 3. Open up Neovim/Vim and run 
+`:PlugInstall`
