@@ -16,6 +16,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```
 
 2. Clone the Repo
+
 nvim
 ```bash
 cd ~/.config
@@ -34,5 +35,6 @@ ssh
 ```bash
 git clone git@github.com:ajnieset/nvim.git
 ```
+
 
 3. Open up Neovim/Vim and run `:PlugInstall`
