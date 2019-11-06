@@ -18,6 +18,7 @@ set shiftwidth=4
 set expandtab
 
 colorscheme one
+set background=dark
 set termguicolors
 
 " g variables
